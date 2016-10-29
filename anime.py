@@ -1,5 +1,7 @@
+#imports
 import webbrowser
 
+#Class Anime with show_trailer function
 class Anime():
     def __init__(self,anime_tiles,anime_genres,poster_image,trailer_youtube):
         self.title = anime_tiles
