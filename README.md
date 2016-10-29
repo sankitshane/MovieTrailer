@@ -3,10 +3,10 @@
 It is a simple Movie trailer web application that uses python as the data structure
 and as a backend part of the program.
 
-###Run the code
+### Run the code
 Just run the center.py code and a browser window will pop up with all the info.
 
-###Work flow
+### Work flow
 center.py contains all the data. It will create instances of class Anime and put it
 in a array called anime_array.
 
